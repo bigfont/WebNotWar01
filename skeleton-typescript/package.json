@@ -77,5 +77,8 @@
       "text": "github:systemjs/plugin-text@^0.0.3"
     },
     "devDependencies": {}
+  },
+  "dependencies": {
+    "jspm": "^0.16.15"
   }
 }
